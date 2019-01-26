@@ -28,4 +28,5 @@ java多线程教程（参考think in java）
 <li><a href="http://www.clips.xin/article/122" target="_blank">java并发编程-CyclicBarrier类</li>
 <li><a href="http://www.clips.xin/article/123" target="_blank">java并发编程-DelayQueue类</li>
 <li><a href="http://www.clips.xin/article/124" target="_blank">java并发编程-PriorityBlockingQueue</li>
+<li><a href="http://www.clips.xin/article/125" target="_blank">java并发编程-ScheduledExecutor定时任务</li>
 </ul>
